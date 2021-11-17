@@ -1,6 +1,6 @@
 # CRUD using React hooks ✨
 
-<img src="./assets/img/captura.png" style="max-height:100px">
+<img src="/src/assets/img/capt.PNG" style="max-height:100px">
 
 - [npm](https://www.npmjs.com/) - Package manager
 - [React](https://es.reactjs.org/) - Framework, npx create-react-app.
